@@ -8,14 +8,14 @@
     "build": "parcel build src/index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Geolonia Inc.",
+  "license": "MIT",
   "dependencies": {
     "@tilecloud/mbgl-export-control": "^0.4.2",
-    "babel-polyfill": "^6.26.0",
-    "parcel": "^1.12.4"
+    "babel-polyfill": "^6.26.0"
   },
   "devDependencies": {
+    "parcel": "^1.12.4",
     "sass": "^1.26.5"
   }
 }
