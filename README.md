@@ -4,7 +4,7 @@
 
 [Zoom のバーチャル背景で黒幕感を演出できる地図画像のダウンロードサービスをつくりました。](https://blog.geolonia.com/2020/05/07/download-service.html)
 
-## Developent
+## Development
 
 ```
 $ git clone git@github.com:geolonia/download.geolonia.com.git
