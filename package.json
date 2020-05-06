@@ -11,6 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@tilecloud/mbgl-export-control": "^0.4.2",
+    "babel-polyfill": "^6.26.0",
     "parcel": "^1.12.4"
   },
   "devDependencies": {

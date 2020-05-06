@@ -4,4 +4,32 @@ html, body, .container, #map
   height: 100%;
   margin: 0;
   padding: 0;
+  font-size: 14px;
+}
+
+#color-picker
+{
+  position: absolute;
+  bottom: 56px;
+  left: 8px;
+  z-index: 9999;
+}
+
+.header
+{
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  z-index: 999;
+  background-color: rgba( 0, 0, 0, 0.8);
+  padding: 16px;
+  color: #ffffff;
+  max-width: 90%;
+
+  h1
+  {
+    margin: 0;
+    margin-bottom: 0.5rem;
+    font-size: 1.2rem;
+  }
 }
