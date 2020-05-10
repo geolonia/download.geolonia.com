@@ -7,12 +7,18 @@ html, body, .container, #map
   font-size: 14px;
 }
 
-#color-picker
+.editor
 {
   position: absolute;
   bottom: 56px;
   left: 8px;
   z-index: 9999;
+
+  #select
+  {
+    width: 100%;
+    font-size: 16px;
+  }
 }
 
 .header

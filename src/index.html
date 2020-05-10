@@ -18,7 +18,15 @@
 <body>
   <div class="container">
     <div id="map" data-style="geolonia/midnight" data-marker="off" data-lat="35.6804" data-lng="139.7690" data-zoom="10" data-hash="on" data-geolocate-control="on" data-lang="en"></div>
-    <div id="color-picker" acp-color="#131C36" acp-show-hsl="no" acp-show-hex="no" acp-show-rgb="no"></div>
+
+    <div class="editor">
+      <select id="select">
+        <option value="background">背景</option>
+        <option value="road">道路</option>
+      </select>
+      <div id="color-picker" acp-color="#131C36" acp-show-hsl="no" acp-show-hex="no" acp-show-rgb="no"></div>
+    </div>
+
     <div class="header">
       <h1>高解像度地図画像ダウンロードサービス</h1>
       <p><a href="https://blog.geolonia.com/2020/05/07/download-service.html" class="about">ご利用方法や、ダウンロードした地図画像のライセンスについてはこちら御覧ください。</a></p>
