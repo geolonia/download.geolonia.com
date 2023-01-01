@@ -15,7 +15,7 @@
     "babel-polyfill": "^6.26.0"
   },
   "devDependencies": {
-    "parcel": "^1.12.4",
+    "parcel": "^2.8.2",
     "sass": "^1.26.5"
   }
 }
