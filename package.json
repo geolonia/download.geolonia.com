@@ -11,6 +11,7 @@
   "author": "Geolonia Inc.",
   "license": "MIT",
   "dependencies": {
+    "@geolonia/mbgl-export-control": "^0.4.2",
     "@tilecloud/mbgl-export-control": "^0.4.2",
     "babel-polyfill": "^6.26.0"
   },
